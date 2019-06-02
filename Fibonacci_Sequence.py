@@ -16,7 +16,7 @@ def fibo_eff(y,dict1):
 
 dict1 = {1:1,2:2}
 
-choice = 300 # Change here for different values
+choice = 20 # Change here for different values
 
 print('   | For {} |'.format(choice))
 print('Fibo:\t\t',fibo(choice))
